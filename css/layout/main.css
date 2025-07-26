@@ -1,0 +1,85 @@
+.Home-im{
+    width: 100%;
+    height: 1000px;
+    padding-left: 00px;
+    position: relative;
+}
+.Home-titl{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -500px;
+    color: aliceblue;
+    font-size: 110px;
+}
+.Home-text{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -350px;
+    font-size: 50px;
+    color: aliceblue;
+}
+#Home{
+    padding-left: 300px;
+}
+#About{
+    padding-left: 300px;
+    padding-top: 90px;
+    padding-bottom: 110px;
+}
+.About-clas{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.About-clas__cl{
+    display: flex;
+    align-items: center;
+    gap: 300px;
+
+}
+.About-clas__cl ul li{
+    font-size: 30px;
+    padding-top: 30px;
+}
+.aa{
+    font-size: 30px;
+    margin-top: px;
+    padding-bottom: 60px;
+}
+.About-titl{
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.About-text{
+    font-size: 24px;
+    padding-bottom: 120px;
+}
+.About-text1{
+    font-size: 24px;
+    padding-top: 150px;
+}
+.About-sss{
+    display: flex;
+    align-items: center;
+}
+.About-l{
+    display: flex;
+    align-items: center;
+    justify-content: space-between  ;
+    padding: 20px;
+    padding-top: 200px;
+}
+.About-sss__a h1{
+    font-size: 50px;
+
+}
+.About-sss__a p{
+    font-size: 40px;
+    color: gray;
+}
+#Resume{
+    padding-left: 300px;
+}
+.Resume_cards ul li{
+    color: gray;
+}

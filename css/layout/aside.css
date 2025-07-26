@@ -1,0 +1,43 @@
+.aside-card{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+}
+aside{
+    background-color: gray;
+    width: 300px;
+    height: 100vh;
+   position: fixed;
+   left: 0;
+   top: 0;
+   padding-top: 50px;
+}
+.aside-im{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border: 3px solid rgb(255, 0, 68);
+}
+
+.aside-titel{
+    color: aliceblue;
+    text-align:center ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.aside-card{
+margin-left: 80px;
+}
+.aside-cardlar{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: end;
+}
